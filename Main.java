@@ -1,3 +1,7 @@
+import java.util.Random;
+import java.util.Map;
+import java.util.Scanner;
+
 void main() {
     Map<Integer, Integer> numPrice = new HashMap<>();
 
