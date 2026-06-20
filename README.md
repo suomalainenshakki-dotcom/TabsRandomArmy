@@ -1,0 +1,1 @@
+A very simple project. Essentially, it creates several hashmaps with the prices and names of each character; the computer then pulls random values and calculates the total price, ensuring it's below the given maximum price.
